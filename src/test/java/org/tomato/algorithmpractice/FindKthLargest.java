@@ -15,7 +15,6 @@ import java.util.stream.Collectors;
  * @author qinqixiang
  * @version $Id: FindKthLargest.java, v 0.1 2020年06月29日 9:39 PM qinqixiang Exp $
  */
-@SuppressWarnings("LoopConditionNotUpdatedInsideLoop")
 public class FindKthLargest {
 
     @Test
